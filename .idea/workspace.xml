@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b67cc69b-bee9-4a3e-8027-b42ddc99e0f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ifdemo.py" afterDir="false" />
-    </list>
+    <list default="true" id="b67cc69b-bee9-4a3e-8027-b42ddc99e0f6" name="Changes" comment="Add sample code" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +31,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ifdemo.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -60,11 +59,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1759364697629</updated>
-      <workItem from="1759364698625" duration="2676000" />
+      <workItem from="1759364698625" duration="3160000" />
     </task>
+    <task id="LOCAL-00001" summary="Add sample code">
+      <option name="closed" value="true" />
+      <created>1759367519543</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759367519543</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add sample code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add sample code" />
   </component>
 </project>
